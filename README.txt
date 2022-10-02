@@ -1,6 +1,3 @@
-Hi, I'm looking for a programmer to be able to apply AI-related techniques to be able to consistently beat the predefined agent baselineTeam
-in a game of capture the flag in Pacman, which is defined below.
-
 Rules of Capture the Flag:
 
 Layout: 
@@ -42,9 +39,3 @@ Your goal in this project is to apply VALUE ITERATION as well as ONE or more of 
 5. Game Theoretic Methods
 6. Bayesian Interface
 ****************************************************
-
-Would ideally need this within A WEEK, and the solution should be able to beat baselineTeam in all layouts, on both red and blue team.
-If there are any questions, feel free to shoot me a message, or run py capture.py --help.
-
-NOTE: You are ONLY allowed to create new classes and modify myTeam.py (don't modify dummyAgent), please don't modify code in any of the other classes to manipulate your results.
-NOTE: Please have original code and don't plagiarise! I'll be checking.
